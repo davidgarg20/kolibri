@@ -142,13 +142,13 @@
     top: 6px;
     left: 0;
     margin-right: 8px;
-    margin-left: 8px;
+    margin-left: 10px;
     font-size: 24px;
   }
 
   .k-filter-input {
     width: calc(100% - 80px);
-    height: 40px;
+    height: 1000px;
     padding-top: 0;
     padding-right: 40px;
     padding-bottom: 0;

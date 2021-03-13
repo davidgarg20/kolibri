@@ -65,7 +65,7 @@
     },
     computed: {
       maxWidth() {
-        return this.enoughSpace ? this.elementWidth : this.elementWidth - 38 * 2;
+        return this.enoughSpace ? this.elementWidth : this.elementWidth - 38 * 1;
       },
       wrapperClass() {
         if (!this.enoughSpace) {
